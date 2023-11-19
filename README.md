@@ -53,10 +53,11 @@
 
 
 ## Output:
+![Ex.No.1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM](empd1.png)
 
 
-### Name:
-### Register Number: 
+### Name: Sneha Basyal
+### Register Number: 212222240101
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
